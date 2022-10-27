@@ -7,7 +7,7 @@
   <VisualBasic.Settings>
     <x:Null />
   </VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>850.4,1756</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>687.2,1756</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>Read_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <scg:List x:TypeArguments="x:String" Capacity="62">
@@ -155,7 +155,7 @@
                         <OutArgument x:TypeArguments="sd:DataTable">[out_dtD]</OutArgument>
                       </Assign.To>
                       <Assign.Value>
-                        <InArgument x:TypeArguments="sd:DataTable">[dtZ]</InArgument>
+                        <InArgument x:TypeArguments="sd:DataTable">[dtD]</InArgument>
                       </Assign.Value>
                     </Assign>
                   </Sequence>
