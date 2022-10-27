@@ -20,7 +20,7 @@ Step 4: Click the Blue Play Button labbeled "Debug file" at the top left side of
 
 ## Kanban
 
-<p><a href="https://github.com/users/Simangaliso-Njabulo/projects/1">Project plan</a></p>
+<p><a href="https://github.com/users/Simangaliso-Njabulo/projects/1">Project Plan</a></p>
 
 ## References
 <ul>
