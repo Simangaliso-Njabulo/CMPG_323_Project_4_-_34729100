@@ -25,4 +25,8 @@ Step 4: Click the Blue Play Button labbeled "Debug file" at the top left side of
 ## References
 <ul>
 
+ 
+ <li><p><a href="https://stackoverflow.com/questions/40023013/tab-space-in-markdown">Markdown tab syntax</a></p></li>
+ <li><p><a href="https://youtu.be/Ljj1wGFJqPY">3 Methods for Adding Images to GItHub README Files</a></p></li> 
+ <li><p><a href="https://youtu.be/f4ifdKCH7VI">Resize image in Github - README.md</a></p></li> 
 </ul>
