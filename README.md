@@ -12,6 +12,12 @@ Step 3: Click on the Main.xaml. This will open UiPath Studio on your computer. <
 
 Step 4: Click the Blue Play Button labbeled "Debug file" at the top left side of you screen. This will start the automation <br/>
 
+## Publishing
+
+<img src="https://github.com/Simangaliso-Njabulo/CMPG_323_Project_4_-_34729100/blob/main/Pictures/Publish_Proof_1.png" width="1024" height="572" alt="Proof of publication">
+
+<img src="https://github.com/Simangaliso-Njabulo/CMPG_323_Project_4_-_34729100/blob/main/Pictures/Publish_Proof_2.png" width="1024" height="572" alt="Proof of publication">
+
 ## Kanban
 
 <p><a href="https://github.com/users/Simangaliso-Njabulo/projects/1">Project plan</a></p>
